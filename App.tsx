@@ -35,7 +35,7 @@ const App: React.FC = () => {
         
         <Section title="Dramatis Personae">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-            <CharacterCard name="Edvaldo J. da Rosa" title="O Boss Final" description="Metade Jedi, metade cientista, completamente transcendental. Mestre do conhecimento e do enigmático 'Boa pergunta...'" imageUrl="https://picsum.photos/400/400?random=1" />
+            <CharacterCard name="Edvaldo J. da Rosa" title="O Boss Final" description="Metade Jedi, metade cientista, completamente transcendental. Mestre do conhecimento e do enigmático 'Boa pergunta...'" imageUrl="edvaldo.png" />
             <CharacterCard name="Nikito Pernilonguito" title="O Prodígio Vingativo" description="Jovem gênio da ciência dos mosquitos, agora fundido com seu objeto de estudo. Proclama a Vingança Tropical." imageUrl="https://picsum.photos/400/400?random=2" />
             <CharacterCard name="Leônidas Heisenberg" title="O Imperador Químico" description="Cunhado de Nikito e mente por trás de um império de metanfetamina e caos na Capital Oeste." imageUrl="https://picsum.photos/400/400?random=3" />
             <CharacterCard name="Nycolas D. Pendrive" title="O Advogado Burocrático" description="Conselheiro dos Guardiões do Paraíso, tentando restaurar a ordem com memorandos e café forte. Better Call Nycolas!" imageUrl="https://picsum.photos/400/400?random=4" />
